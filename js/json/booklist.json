@@ -1,0 +1,41 @@
+{
+  "0156030306":{
+    "title": "Flowers for Algernon",
+    "author":"Daniel Keys",
+    "isbn": "0156030306",
+    "review": "It's a very thought-provoking story, all the more so when you consider that it was written about 40 years ago when society was a bit less tolerant of the mentally retarded than it is now.",
+    "rating": 4,
+    "genres": {"fiction":true, "fantasy":false,"philosophy":true}
+  },
+  "1439170916":{
+    "title": "The Emperor of All Maladies",
+    "author":"Siddhartha Mukherjee ",
+    "isbn": "1439170916",
+    "review": "Starred Review. Mukherjee's debut book is a sweeping epic of obsession, brilliant researchers, dramatic new treatments, euphoric success and tragic failure, and the relentless battle by scientists and patients alike against an equally relentless, wily, and elusive enemy.",
+    "rating": 5,
+    "genres": {"fiction":false, "fantasy":false,"Science":true}
+  },
+  "1512381772":{
+    "title": "The Moon and Sixpence",
+    "author":"W. Somerset Maugham",
+    "isbn": "1512381772",
+    "review": "The Moon and Sixpence was Somerset Maugham’s eleventh novel. A first person narration, it follows Charles Strickland, a remorseless pursuer of artistic fuifillment in painting. The model for Strickland was the Franch artist Paul Gaughn who died nearly a decade prior to the novel’s publication.",
+    "rating": 4,
+    "genres": {"fiction":true, "fantasy":false,"drama":true}
+  },
+  "1449339735":{
+    "title": "Interactive Data Visualization for the Web",
+    "author":"Scott Murray",
+    "isbn": "1449339735",
+    "review": "I dove straight in to chapter 12 (Geomapping). It's really, really difficult for an author to match provided source files with the code in the book, but here it was all perfect. And the source files (and book text) followed a very direct path of adding complexity step by step, making sure one item was described fully before moving on to the next. No typos, no botched URLs -- everything was perfect.",
+    "rating": 4,
+    "genres": {"non-fiction":true, "fantasy":false}
+  },
+  "1608190552":{
+    "title": "The Art Instinct : Beauty, Pleasure, and Human Evolution",
+    "author":"Dennis Dutton",
+    "isbn": "1608190552",
+    "review": "In \"The Art Instinct\" Denis Dutton asks an interesting question: is there a way to explain our human prediliction for art in evolutionary terms? How can this drive for art be seen as a trait instilled by the process of evolution? Dutton's answers, unfortunately, turn out to be rather pedestrian",
+    "rating": 4,
+    "genres": {"non-fiction":true, "fantasy":false}
+  }}

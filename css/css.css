@@ -16,15 +16,51 @@
   transition-delay: initial; }
 
 /* CH02 - Typography */
+.list-unstyled{
+  list-style:none;
+}
 /* CH03 - Page Structure */
 body {
   height: 100%;
-  background-color: #000000; }
+  background-color: #ffffff; }
 
 /* CH04 - Header & Navigation */
 /* CH05 - Content & Media */
 /* CH06 - Footer */
 /* CH07 - Miscellaneous */
+label{
+  margin-right:15px;
+}
+div.genre {
+  float: left;
+  width: 75%;
+  margin: 0;
+  padding: 0 15px;
+  overflow: hidden;
+}
+.genre-label {
+  float: left;
+  width: 50%;
+  margin: 0;
+  cursor: pointer;
+  overflow: hidden;
+  text-overflow:ellipsis;
+  text-tranform: capitalize;
+  white-space: nowrap;
+}
+
+.genre-label:hover {
+  border-color: #ddd;
+  color: #888;
+}
+
+.genre-label:active {
+  border-color: #999;
+  color: #222;
+}
+.goodRating{
+  color:rgb(111, 182, 87);
+}
 /*==========  Non-Mobile First Method  ==========*/
 /* Mobile first queries */
 /* Larger than mobile */
